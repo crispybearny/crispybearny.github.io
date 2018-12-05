@@ -1,0 +1,49 @@
+h1 {
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    background-color:darkblue;
+    background-image: none;
+    text-align: left;
+
+}
+
+
+h2 {
+    color: white;
+    background-color: maroon;
+
+}
+
+
+h3 {
+    color: white;
+    background-color: darkgreen;
+
+
+}
+
+img{
+    box-shadow: 10px 5px 5px black;
+
+
+}
+
+section{
+
+    background-color: lightgray;
+
+}
+
+p {
+    font-size: 12px;
+
+}
+
+ul{
+    border: 1px;
+    border-style: solid;
+
+
+}
